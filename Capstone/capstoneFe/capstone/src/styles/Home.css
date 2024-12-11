@@ -1,0 +1,45 @@
+.taskHolder {
+    background: antiquewhite;
+    /* padding: 2px; */
+    padding-top: 3%;
+    padding-left: 5%;
+    /* margin: 14px; */
+}
+
+.task{
+    
+    padding: 2%;
+    border-radius: 15px;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    width: 90%;
+}
+
+.description{
+    padding: 2%;
+    border-radius: 15px;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+
+.image{
+    height: 250px;
+    border-radius: 15px;
+}
+
+.title{
+    justify-content: space-between;
+}
+
+.link{
+    color: #000000;
+    text-decoration: none;
+}
+
+.incomplete{
+    background: #4299ff8f;
+}
+
+.completed{
+    background: #00b2608f;
+}

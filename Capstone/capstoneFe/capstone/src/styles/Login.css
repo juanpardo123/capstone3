@@ -1,0 +1,15 @@
+.backdrop{    
+    display: flex;
+    background: bisque;
+    height: 90vh;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.login-holder{
+    background: aqua;
+    /* padding: 11px; */
+    padding: 50px;
+    border-radius: 20px;
+}
